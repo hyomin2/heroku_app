@@ -1,0 +1,23 @@
+{
+  "name": "heroku_app",
+  "version": "1.0.0",
+  "description": "hi, my name is hyomin !",
+  "main": "index.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyomin2/heroku_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyomin2/heroku_app/issues"
+  },
+  "homepage": "https://github.com/hyomin2/heroku_app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
